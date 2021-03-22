@@ -1,5 +1,4 @@
 # AWS-S3-Practice
-# AWS-S3-Practice
 AWS S3 Fileupload example in java 
 
 ## Amazon S3이란?
